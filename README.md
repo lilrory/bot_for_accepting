@@ -8,7 +8,7 @@
 
 1. **Клонирование репозитория**
 
-   git clone https://github.com/yourusername/AcceptMeBot.git
+   git clone git@github.com:lilrory/bot_for_accepting.git
 
 
 2. **Настройка переменных окружения**
